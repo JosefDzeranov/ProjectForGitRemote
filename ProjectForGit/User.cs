@@ -8,9 +8,5 @@ namespace ProjectForGit
 {
     internal class User
     {
-        public User()
-        {
-
-        }
     }
 }

@@ -1,15 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ProjectForGit
+﻿namespace ProjectForGit
 {
-    internal class Book
+    public class Book
     {
-        // изменение для подзадачи2
-        // сделал изменения для 8 задачи
         public int MyProperty { get; set; }
+        public string MyProperty2 { get; set; }
     }
 }
