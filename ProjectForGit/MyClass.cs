@@ -8,5 +8,6 @@ namespace ProjectForGit
 {
     internal class MyClass123123123
     {
+        //что-то сделал для вселенского добра + ощущаю мощь!)) на ревью
     }
 }
