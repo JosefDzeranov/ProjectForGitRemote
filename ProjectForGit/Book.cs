@@ -13,3 +13,4 @@ namespace ProjectForGit
         public int MyProperty { get; set; }
     }
 }
+// делаю изменение
