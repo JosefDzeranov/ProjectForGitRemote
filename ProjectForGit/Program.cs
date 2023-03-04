@@ -38,6 +38,7 @@ namespace ProjectForGit
             // сделал изменения2 для 34 задачи
 
             //Изменения для форка
+            // New Feature
         }
     }
 }
