@@ -38,6 +38,7 @@ namespace ProjectForGit
             // сделал изменения2 для 34 задачи
 			
 			// test
+		// создание комита на githib
         }
     }
 }
