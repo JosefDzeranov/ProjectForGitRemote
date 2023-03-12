@@ -2,5 +2,6 @@
 {
     internal class User
     {
+        // Изменения Германа
     }
 }
