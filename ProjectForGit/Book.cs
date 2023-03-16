@@ -8,8 +8,8 @@ namespace ProjectForGit
 {
     internal class Book
     {
-        // изменение для подзадачи2
-        // сделал изменения для 8 задачи
+        //сделал комментарий для задачи на Git
+
         public int MyProperty { get; set; }
     }
 }
