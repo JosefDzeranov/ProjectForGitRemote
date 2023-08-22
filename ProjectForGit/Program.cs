@@ -37,7 +37,7 @@ namespace ProjectForGit
             // сделал изменения1 для 34 задачи
             // сделал изменения2 для 34 задачи
 
-            //Excercise 5.3, Stepik from Kirill Buchnev
+            //Exercise 5.3, Stepik from Kirill Buchnev
         }
     }
 }
