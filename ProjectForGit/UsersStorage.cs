@@ -2,7 +2,10 @@
 
 namespace ProjectForGit
 {
-    private class UsersStorage
+    public class UsersStorage
     {
+        public UsersStorage() { }
+        public UsersStorage(string username) { }
+
     }
 }

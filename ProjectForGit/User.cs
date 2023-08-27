@@ -1,6 +1,7 @@
 ﻿namespace ProjectForGit
 {
-    internal class User
+    public class User
     {
+        // test
     }
 }
