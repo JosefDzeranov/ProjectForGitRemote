@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 
 namespace ProjectForGit
 {
-    internal class Book
+    public class Book
     {
-        // изменение для подзадачи2
-        // сделал изменения для 8 задачи
         public int MyProperty { get; set; }
     }
 }
