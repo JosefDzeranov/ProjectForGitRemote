@@ -36,6 +36,7 @@ namespace ProjectForGit
 
             // сделал изменения1 для 34 задачи
             // сделал изменения2 для 34 задачи
+            // изменения для дз https://stepik.org/lesson/870573/step/5?unit=874777
         }
     }
 }
