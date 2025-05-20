@@ -2,7 +2,8 @@
 
 namespace ProjectForGit
 {
-    private class UsersStorage
+    public class UsersStorage
     {
+        //added for test fork
     }
 }
