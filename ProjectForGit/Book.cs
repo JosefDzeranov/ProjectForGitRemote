@@ -10,6 +10,7 @@ namespace ProjectForGit
     {
         // изменение для подзадачи2
         // сделал изменения для 8 задачи
+        //какие-то изменения
         public int MyProperty { get; set; }
     }
 }
