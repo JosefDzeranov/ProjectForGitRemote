@@ -36,6 +36,8 @@ namespace ProjectForGit
 
             // сделал изменения1 для 34 задачи
             // сделал изменения2 для 34 задачи
+
+            // There are some changes here...
         }
     }
 }
