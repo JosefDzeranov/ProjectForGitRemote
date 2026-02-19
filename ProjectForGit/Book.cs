@@ -12,4 +12,5 @@ namespace ProjectForGit
         // сделал изменения для 8 задачи
         public int MyProperty { get; set; }
     }
+    // добавил методы
 }
