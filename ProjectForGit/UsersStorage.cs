@@ -2,7 +2,8 @@
 
 namespace ProjectForGit
 {
-    private class UsersStorage
+    internal class UsersStorage
     {
+        // описание класса Хранилище пользователей
     }
 }
